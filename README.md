@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @nandu-k01
+- 👨‍🎓 Degree in finance & accounting
 - 👀 I’m interested in data analytics and machine learning..
 - 🌱 I’m currently learning machine learning
 
