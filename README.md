@@ -1,7 +1,7 @@
  ## 👋 Hi, I’m Nandagopan a.k.a Nandu
 - 👨‍🎓 Degree in finance & accounting
 - 👀 I’m interested in data analytics and machine learning..
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning ML
  
  
  Yeah! i know commerce graduate pursuing data science. It might be shocking and unorthodox but if you think about it both accounting and data science have the same      principles at its core and i have been accounting for 5 years, while learning the same and  i have excellent knowledge in finance domain.
