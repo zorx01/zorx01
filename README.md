@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nandu-k01
+ # 👋 Hi, I’m Nandagopan a.k.a Nandu
 - 👨‍🎓 Degree in finance & accounting
 - 👀 I’m interested in data analytics and machine learning..
 - 🌱 I’m currently learning machine learning
@@ -8,7 +8,7 @@
 
   
   
-  #👨‍💻**Tech Stack**
+  ##👨‍💻**Tech Stack**
   - Python
   - Numpy & Pandas
   - MySql
