@@ -1,4 +1,4 @@
- ## 👋 Hi, I’m Nandagopan a.k.a Nandu
+ # 👋 Hi, I’m Nandagopan a.k.a Nandu
 - 👨‍🎓 Degree in finance & accounting
 - 👀 I’m interested in data analytics and machine learning..
 - 🌱 I’m currently learning ML
@@ -8,7 +8,7 @@
 
   
   
-  ###👨‍💻**Tech Stack**
+  ## 👨‍💻**Tech Stack**
   - Python
   - Numpy & Pandas
   - MySql
@@ -17,6 +17,11 @@
   - Tensorflow
   - Excel 
   - Tableu
+  - Sci-kit learn
+  - Matplotlib
+  - Seaborn
+  - HTML
+  - CSS
 <!---
 nandu-k01/nandu-k01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
