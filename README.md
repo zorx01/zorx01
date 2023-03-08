@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **nandagopan.k01@gmail.com**
 
-- ⚡ Fun fact **-Tabs Over Space bar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -58,6 +57,8 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a>
 </p> -->
+        
+        
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=nandu-k01&show_icons=true&locale=en"
         alt="nandu-k01" /></p>
 
