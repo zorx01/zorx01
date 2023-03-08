@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nandu S</h1>
+<h1 align="center">Hi 👋, I'm Nandu </h1>
 <h3 align="center">Data Scientist from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nandu-k01&label=Profile%20views&color=0e75b6&style=flat"
