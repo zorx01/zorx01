@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br>I'm Nandu </h1>
 <h3 align="center">Data Scientist from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nandu-k01&label=Profile%20views&color=0e75b6&style=flat"
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nandu-k01&label=Visitors&color=green"
         alt="nandu-k01" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="margin-left: 10px;"
-            src="https://github-profile-trophy.vercel.app/?username=nandu-k01" alt="nandu-k01" /></a> </p>
+            src="https://github-profile-trophy.vercel.app/?username=nandu-k01&theme=nord" alt="nandu-k01" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science**
 
