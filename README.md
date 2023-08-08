@@ -40,10 +40,10 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <p align="left">
     <a href="https://linkedin.com/in/nandagopan-kalathil" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="nandagopan-kalathil" height="30" width="40" /></a>
+            alt="nandagopan-kalathil" height="30" width="40" /></a> -->
 
                 
 <!-- <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=nandu-k01&show_icons=true&locale=en"
