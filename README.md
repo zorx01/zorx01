@@ -4,8 +4,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nandu-k01&label=Visitors&color=green"
         alt="nandu-k01" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="margin-left: 10px;"
-            src="https://github-profile-trophy.vercel.app/?username=nandu-k01&theme=nord" alt="nandu-k01" /></a> </p>
+<!--  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="margin-left: 10px;"
+           src="https://github-profile-trophy.vercel.app/?username=nandu-k01&theme=nord" alt="nandu-k01" /></a> </p> -->
 
 <!-- 👨‍💻 All of my projects are available at <a href="">My Portfolio</a>!-->
 
@@ -39,11 +39,6 @@
 
 
 
-        <h3 align="left">Connect with me:</h3>
-        <p align="left">
-    <a href="https://linkedin.com/in/nandagopan-kalathil" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="nandagopan-kalathil" height="30" width="40" /></a>
 
                 
 <!-- <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=nandu-k01&show_icons=true&locale=en"
