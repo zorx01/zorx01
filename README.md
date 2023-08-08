@@ -46,10 +46,10 @@
             alt="nandagopan-kalathil" height="30" width="40" /></a>
 
                 
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=nandu-k01&show_icons=true&locale=en"
+<!-- <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=nandu-k01&show_icons=true&locale=en"
         alt="nandu-k01" /></p>
 
-<!-- <p><img align="right"
+ <p><img align="right"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=nandu-k01&show_icons=true&locale=en&layout=compact"
         alt="nandu-k01" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nandu-k01&" alt="nandu-k01" /></p>
