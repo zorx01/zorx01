@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br>I'm Nandu </h1>
-<h3 align="center">Data Scientist from India</h3>
+<h3 align="center"></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nandu-k01&label=Visitors&color=green"
         alt="nandu-k01" /> </p>
