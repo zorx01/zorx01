@@ -11,6 +11,6 @@ Nandagopan K
 
 </h2>
 
-If you have any crazy-interesting ideas that you think are crazy enough to develop together with me, feel free to ping me over [matrix](@zorx.01:matrix.org) / [email](mailto:nandagopan.k01@gmail.com)
+Feel free to ping me over [matrix](@zorx.01:matrix.org) / [email](mailto:nandagopan.k01@gmail.com)
 
 > BTW, find some of my blogs @ [https://zorx01.netlify.app/](https://zorx01.netlify.app/blog/)
