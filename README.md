@@ -1,7 +1,7 @@
 
 <h2>
 Nandagopan K
-<img src=" patrick.webp" alt="profile pic" align="right" width=75>
+<img src="https://zorx01.netlify.app/patrick.webp" alt="profile pic" align="right" width=75>
 
 <p><b>@zorx01</b></p>
 
