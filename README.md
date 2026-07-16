@@ -4,7 +4,7 @@ Nandagopan K
 AI & Robotics | Good with Python, PyTorch, and ROS2
 
 
-* Currently working at IIT Palakkad as a project engineer under the guidance of [Dr. Shaikshavali Chitraganti](https://iitpkd.ac.in/people/shaik)
+* Currently working at IIT Palakkad as a project engineer.
 
 
 <img src="https://media.tenor.com/fSsxftCb8w0AAAAi/pikachu-running.gif" alt="profile pic" align="right" width=140>
